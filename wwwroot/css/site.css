@@ -1,0 +1,58 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@300&family=Roboto:wght@300&family=Tenor+Sans&display=swap');
+
+body {
+    margin-bottom: 60px;
+    position relative;
+
+}
+
+body .img-fluid{
+    display:block;
+    position: absolute;
+}
+
+/* Menu */    
+.navbar {
+    display: block;
+    background-color: #ffffff !important;
+    height: 120px;
+}
+
+.navbar-collapse {
+    display: flex;
+    position: absolute;
+    top: 45px;
+    left: 45%;
+}
+
+.nav-link {
+    color: #282828 !important;
+    font-family: Bahnschrift !important;
+    font-weight: 350;
+    text-transform: uppercase;
+}
+
+.btn {
+    display: flex;
+    position: absolute;
+    left: 80%;
+    top: 45px;
+    text-transform: uppercase;
+    font-family: Bahnschrift;
+    font-weight: 350;
+}
