@@ -58,3 +58,4 @@ C:\workspace\VolitGestao\VolitSolution\obj\Debug\net6.0\refint\VolitSolution.dll
 C:\workspace\VolitGestao\VolitSolution\obj\Debug\net6.0\VolitSolution.pdb
 C:\workspace\VolitGestao\VolitSolution\obj\Debug\net6.0\VolitSolution.genruntimeconfig.cache
 C:\workspace\VolitGestao\VolitSolution\obj\Debug\net6.0\ref\VolitSolution.dll
+C:\workspace\VolitGestao\VolitSolution\obj\Debug\net6.0\VolitSolution.sourcelink.json

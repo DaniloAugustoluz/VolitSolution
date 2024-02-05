@@ -57,12 +57,24 @@
       "PackagePath": "staticwebassets\\img\\ing-objetiva.png"
     },
     {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\job-5382501_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\job-5382501_1280.jpg"
+    },
+    {
       "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\logo-better.jpg",
       "PackagePath": "staticwebassets\\img\\logo-better.jpg"
     },
     {
       "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\logomain.png",
       "PackagePath": "staticwebassets\\img\\logomain.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\macbook-606763_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\macbook-606763_1280.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\man-593333_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\man-593333_1280.jpg"
     },
     {
       "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\pexels-cottonbro-studio-6153354.jpg",
@@ -79,6 +91,18 @@
     {
       "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\pexels-tara-winstead-8386487.jpg",
       "PackagePath": "staticwebassets\\img\\pexels-tara-winstead-8386487.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\student-849825_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\student-849825_1280.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\technology-4739530_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\technology-4739530_1280.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\touch-screen-1023966_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\touch-screen-1023966_1280.jpg"
     },
     {
       "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\js\\site.js",
