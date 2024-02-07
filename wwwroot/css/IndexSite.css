@@ -1,5 +1,5 @@
 ﻿@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@300&family=Roboto+Mono:ital,wght@1,100&family=Roboto:wght@300&family=Tenor+Sans&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Open+Sans:wght@300&family=Oswald:wght@300&family=Roboto+Mono:ital,wght@1,100&family=Roboto:wght@300&family=Tenor+Sans&display=swap');
 body {
     margin: 0px;
     padding: 0px;
@@ -35,11 +35,11 @@ header .container {
 }
 .div-parceiros {
     display: flex;
-    background-color: #8a8477;
+    background-color: whitesmoke;
     width: 1100px;
     height: 650px;
     position: relative;
-    border: 20px solid #fffed7;
+    border: 20px solid #fff6ff;
 }
 .paragrafo-1 {
     width: 100%;
@@ -48,16 +48,18 @@ header .container {
     padding-bottom: 10px;
     padding-left: 40px;
     position: fixed;
-    background-color: #fffed7;
-    font-size: 9px;
-    color: black;
+    background-color: black;
+    font-family: 'Kanit', sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: whitesmoke;
     font-weight: bold;
     top: 48%;
 }
 
 .elemento1{
     display: block;
-    width: 550px;
+    width: 750px;
     height: 100%;
     background-color: whitesmoke;
 }
@@ -66,19 +68,38 @@ header .container {
     height: 100%;
 }
 .titulo-container {
-    font-family: Bahnschrift;
-    color: #fffed7;
+    font-family: 'Kanit', sans-serif;
+    color: black;
     margin-left: 70px;
     margin-top: 30px;
 }
 .script-container {
-    display: flex;
+    display: block;
     justify-content: center;
+    background-color: #fff6ff;
     align-items: center;
-    width: 600px;
+    width: 1200px;
     height: 400px;
-    border: 2px solid #fffed7;
     position: relative;
     top: 130px;
     right: 85px;
 }
+rowcontainer {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+}
+.img-info1{
+    width: 50%
+}
+.img-info2 {
+    width: 50%
+}
+.img-info3 {
+    width: 50%
+}
+.Informativo-1{
+    display: block;
+
+}s

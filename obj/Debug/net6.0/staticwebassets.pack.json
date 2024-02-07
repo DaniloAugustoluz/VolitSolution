@@ -45,6 +45,22 @@
       "PackagePath": "staticwebassets\\img\\homepagebanner.png"
     },
     {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\icones.png",
+      "PackagePath": "staticwebassets\\img\\icones.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\icones1.png",
+      "PackagePath": "staticwebassets\\img\\icones1.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\icones2.png",
+      "PackagePath": "staticwebassets\\img\\icones2.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\icones3.png",
+      "PackagePath": "staticwebassets\\img\\icones3.png"
+    },
+    {
       "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\img-help.png",
       "PackagePath": "staticwebassets\\img\\img-help.png"
     },
