@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\BANCO DE DADOS - ICON.png",
+      "PackagePath": "staticwebassets\\img\\BANCO DE DADOS - ICON.png"
+    },
+    {
       "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Conhecer, transformar, evoluir..png",
       "PackagePath": "staticwebassets\\img\\Conhecer, transformar, evoluir..png"
     },
@@ -37,28 +41,24 @@
       "PackagePath": "staticwebassets\\img\\Conhecer, transformar, evoluirHOME..png"
     },
     {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\DESENVOLVIMENTO-ICON.png",
+      "PackagePath": "staticwebassets\\img\\DESENVOLVIMENTO-ICON.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\MEDIACAO-ICON.png",
+      "PackagePath": "staticwebassets\\img\\MEDIACAO-ICON.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\RFID-ICON.png",
+      "PackagePath": "staticwebassets\\img\\RFID-ICON.png"
+    },
+    {
       "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\WhatsApp Image 2024-01-22 at 14.55.19.jpeg",
       "PackagePath": "staticwebassets\\img\\WhatsApp Image 2024-01-22 at 14.55.19.jpeg"
     },
     {
       "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\homepagebanner.png",
       "PackagePath": "staticwebassets\\img\\homepagebanner.png"
-    },
-    {
-      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\icones.png",
-      "PackagePath": "staticwebassets\\img\\icones.png"
-    },
-    {
-      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\icones1.png",
-      "PackagePath": "staticwebassets\\img\\icones1.png"
-    },
-    {
-      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\icones2.png",
-      "PackagePath": "staticwebassets\\img\\icones2.png"
-    },
-    {
-      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\icones3.png",
-      "PackagePath": "staticwebassets\\img\\icones3.png"
     },
     {
       "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\img-help.png",

@@ -5,6 +5,151 @@ body {
     padding: 0px;
 }
 
+/* novo css homepage */
+.paragrafo-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 5px;
+    width: 100%;
+    height: 20px;
+    background-color: #d8dddd;
+    color: black;
+    position: fixed;
+    font-size: 9px;
+    font-family: 'Kant', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-top: 2px solid whitesmoke;
+    border-bottom: 2px solid whitesmoke;
+}
+/*      ITENS PÁGINA INICIAL  - BLOCO 2     */
+.bloco-pai {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    row-gap: 15px;
+    width: 1100px;
+    height: auto;
+    background-color: white;
+}
+
+.bloco-pai .bloco-1{
+    display: flex;
+    position:relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.imagem{
+    width: 100%;
+}
+
+
+/*      ITENS PÁGINA INICIAL  - BLOCO 2     */
+.bloco-pai .bloco-2 {
+    display: flex;
+    position: relative;
+    padding: 20px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 100px;
+    background-color: #d8dddd;
+}
+
+
+.item-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    row-gap: 8px;
+}
+
+.item-1 h6 {
+    font-family: Bahnschrift;
+    font-weight: bold;
+}
+
+.item-1 img{
+    width: 40%;
+}
+
+.item-1 p {
+    font-size: 14px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+}
+
+
+
+.item-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    row-gap: 8px;
+}
+
+.item-2 h6 {
+    font-family: Bahnschrift;
+    font-weight: bold;
+}
+
+.item-2 img {
+    width: 40%;
+}
+
+.item-2 p {
+    font-size: 13px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+}
+
+
+
+.item-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    row-gap: 8px;
+}
+
+.item-3 h6 {
+    font-family: Bahnschrift;
+    font-weight: bold;
+}
+
+.item-3 img {
+    width: 40%;
+}
+
+.item-3 p {
+    font-size: 13px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+}
+
+
+
+
+/*      ELEMENTOS NAV E FOOTER    */
 .logo-volit {
     display: flex;
     position: absolute;
@@ -18,88 +163,3 @@ header .container {
     display: none;
 }
 
-#background-imagem {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-.foto-inicio{
-    width: 1124px;
-    height: 700px;
-    display: block;
-    position: relative;
-}
-.img-inicio{
-    width: 100%;
-}
-.div-parceiros {
-    display: flex;
-    background-color: whitesmoke;
-    width: 1100px;
-    height: 650px;
-    position: relative;
-    border: 20px solid #fff6ff;
-}
-.paragrafo-1 {
-    width: 100%;
-    height: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 40px;
-    position: fixed;
-    background-color: black;
-    font-family: 'Kanit', sans-serif;
-    font-size: 10px;
-    text-transform: uppercase;
-    color: whitesmoke;
-    font-weight: bold;
-    top: 48%;
-}
-
-.elemento1{
-    display: block;
-    width: 750px;
-    height: 100%;
-    background-color: whitesmoke;
-}
-.img-elemento1{
-    width: 100%;
-    height: 100%;
-}
-.titulo-container {
-    font-family: 'Kanit', sans-serif;
-    color: black;
-    margin-left: 70px;
-    margin-top: 30px;
-}
-.script-container {
-    display: block;
-    justify-content: center;
-    background-color: #fff6ff;
-    align-items: center;
-    width: 1200px;
-    height: 400px;
-    position: relative;
-    top: 130px;
-    right: 85px;
-}
-rowcontainer {
-    display: flex;
-    position: absolute;
-    align-items: center;
-    justify-content: center;
-}
-.img-info1{
-    width: 50%
-}
-.img-info2 {
-    width: 50%
-}
-.img-info3 {
-    width: 50%
-}
-.Informativo-1{
-    display: block;
-
-}s
