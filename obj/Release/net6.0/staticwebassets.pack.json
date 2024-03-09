@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\VolitSolution.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VolitSolution.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\css\\Contato.css",
+      "PackagePath": "staticwebassets\\css\\Contato.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\css\\IndexSite.css",
+      "PackagePath": "staticwebassets\\css\\IndexSite.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\css\\produtos.css",
+      "PackagePath": "staticwebassets\\css\\produtos.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Apresentação_1-10_page-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\Apresentação_1-10_page-0001.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Apresentação_1-1_page-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\Apresentação_1-1_page-0001.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Apresentação_1-2_page-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\Apresentação_1-2_page-0001.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Apresentação_1-3_page-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\Apresentação_1-3_page-0001.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Apresentação_1-4_page-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\Apresentação_1-4_page-0001.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Apresentação_1-5_page-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\Apresentação_1-5_page-0001.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Apresentação_1-6_page-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\Apresentação_1-6_page-0001.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Apresentação_1-7_page-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\Apresentação_1-7_page-0001.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Apresentação_1-8_page-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\Apresentação_1-8_page-0001.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Apresentação_1-9_page-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\Apresentação_1-9_page-0001.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\BANCO DE DADOS - ICON.png",
+      "PackagePath": "staticwebassets\\img\\BANCO DE DADOS - ICON.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Conhecer, transformar, evoluir..png",
+      "PackagePath": "staticwebassets\\img\\Conhecer, transformar, evoluir..png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\Conhecer, transformar, evoluirHOME..png",
+      "PackagePath": "staticwebassets\\img\\Conhecer, transformar, evoluirHOME..png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\DESENVOLVIMENTO-ICON.png",
+      "PackagePath": "staticwebassets\\img\\DESENVOLVIMENTO-ICON.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\MEDIACAO-ICON.png",
+      "PackagePath": "staticwebassets\\img\\MEDIACAO-ICON.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\RFID-ICON.png",
+      "PackagePath": "staticwebassets\\img\\RFID-ICON.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\WhatsApp Image 2024-01-22 at 14.55.19.jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2024-01-22 at 14.55.19.jpeg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\homepagebanner.png",
+      "PackagePath": "staticwebassets\\img\\homepagebanner.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\img-help.png",
+      "PackagePath": "staticwebassets\\img\\img-help.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\img-seidor.png",
+      "PackagePath": "staticwebassets\\img\\img-seidor.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\img-servicos.jpg",
+      "PackagePath": "staticwebassets\\img\\img-servicos.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\ing-objetiva.png",
+      "PackagePath": "staticwebassets\\img\\ing-objetiva.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\job-5382501_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\job-5382501_1280.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\logo-better.jpg",
+      "PackagePath": "staticwebassets\\img\\logo-better.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\logomain.png",
+      "PackagePath": "staticwebassets\\img\\logomain.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\macbook-606763_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\macbook-606763_1280.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\man-593333_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\man-593333_1280.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\pexels-cottonbro-studio-6153354.jpg",
+      "PackagePath": "staticwebassets\\img\\pexels-cottonbro-studio-6153354.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\pexels-tara-winstead-8386357.jpg",
+      "PackagePath": "staticwebassets\\img\\pexels-tara-winstead-8386357.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\pexels-tara-winstead-8386358.jpg",
+      "PackagePath": "staticwebassets\\img\\pexels-tara-winstead-8386358.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\pexels-tara-winstead-8386487.jpg",
+      "PackagePath": "staticwebassets\\img\\pexels-tara-winstead-8386487.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\social-media-5187243_1280.png",
+      "PackagePath": "staticwebassets\\img\\social-media-5187243_1280.png"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\student-849825_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\student-849825_1280.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\technology-4739530_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\technology-4739530_1280.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\img\\touch-screen-1023966_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\touch-screen-1023966_1280.jpg"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\workspace\\VolitGestao\\VolitSolution\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.VolitSolution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.VolitSolution.props",
+      "PackagePath": "build\\VolitSolution.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.VolitSolution.props",
+      "PackagePath": "buildMultiTargeting\\VolitSolution.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.VolitSolution.props",
+      "PackagePath": "buildTransitive\\VolitSolution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

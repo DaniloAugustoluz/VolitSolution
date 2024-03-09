@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VolitSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+346b6dc480da6bf66d257c7f372eca3adc56584e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ef0e49e10f8161aebaf2d5edd70f4583267291e")]
 [assembly: System.Reflection.AssemblyProductAttribute("VolitSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VolitSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

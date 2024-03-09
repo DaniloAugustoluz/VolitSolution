@@ -1,12 +1,72 @@
-﻿<head>
-    <link rel="stylesheet" href="~/css/Contato.css" />
-</head>
-@model HomeModel
+﻿@model HomeModel
 @{
     ViewData["Title"] = "Contato";
 }
-<h1>
-    Página de contatos
-</h1>
+<style>
+    .contato-main {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 25px;
+        width: 1024px;
+        height: auto;
+    }
+    .button-whatsapp{
+        border: 2px solid green;
+        background-color: green;
+        font-family: Bahnschrift;
+        font-size: 14px;
+        text-decoration: none;
+        padding: 8px;
+        color: white;
+    }
+
+    .info{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    .dizeres{
+        display:flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: 15px;
+    }
+
+    .item-h4 {
+        font-family: Bahnschrift;
+        font-size: 14px;
+    }
+    .item-p{
+        font-family: Bahnschrift;
+        font-size: 13px;
+    }
+    .divbutton{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-top: 11px;
+    }
+</style>
+
+<div class="container contato-main">
+    <div class="info">
+        <img src="~/img/social-media-5187243_1280.png" width="50%" height="600px"/>
+        <div class="dizeres">
+            <h4 class="item-h4">Contate-nos via WhatsApp</h4>
+            <p class="item-p">
+                Acreditamos na facilidade de comunicação, e é por isso que oferecemos a opção de contato via WhatsApp. Clique no botão abaixo para iniciar uma conversa instantânea com nossa equipe. Estamos prontos para ouvir suas perguntas, fornecer informações adicionais sobre nossos produtos ou serviços, e garantir que sua experiência com a Volit seja excepcional.
+                Obrigado por escolher a Volit. Estamos ansiosos para ouvir de você e ajudar no que for necessário.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="container divbutton">
+    <a class="button-whatsapp" target="_blank" href="https://wa.me/5511976233945?text=Atendimento+com+consultor+Volit.">Fale com nossos consultores</a>
+</div>
 
 

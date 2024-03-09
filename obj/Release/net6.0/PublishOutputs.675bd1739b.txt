@@ -1,0 +1,7 @@
+C:\workspace\VolitGestao\VolitSolution\obj\Release\net6.0\PubTmp\Out\VolitSolution.exe
+C:\workspace\VolitGestao\VolitSolution\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\workspace\VolitGestao\VolitSolution\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\workspace\VolitGestao\VolitSolution\obj\Release\net6.0\PubTmp\Out\VolitSolution.dll
+C:\workspace\VolitGestao\VolitSolution\obj\Release\net6.0\PubTmp\Out\VolitSolution.deps.json
+C:\workspace\VolitGestao\VolitSolution\obj\Release\net6.0\PubTmp\Out\VolitSolution.runtimeconfig.json
+C:\workspace\VolitGestao\VolitSolution\obj\Release\net6.0\PubTmp\Out\VolitSolution.pdb
